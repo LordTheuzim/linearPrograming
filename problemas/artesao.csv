@@ -1,0 +1,10 @@
+,p_Jarros,p_Tijelas,v_JarrosLoja,v_TijelasLoja,v_JarrosFeira,v_TijelasFeira,b
+Lucro,0,0,20,30,22.5,22.5,z
+Rest_Prod0,0.8,1,0,0,0,0,40
+Rest_Prod1,1,1.25,0,0,0,0,50
+Rest_Prod2,-1,0,1,0,1,0,0
+Rest_Prod3,0,-1,0,1,0,1,0
+Rest_Loja0,0,0,1,0,0,0,30
+Rest_Loja1,0,0,0,-1,0,0,-8
+Rest_Loja2,0,0,2,-1,0,0,0
+Rest_Feira,0,0,0,0,-1,1,0
